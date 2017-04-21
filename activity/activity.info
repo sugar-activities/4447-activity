@@ -1,0 +1,7 @@
+[Activity]
+name = Screencast
+bundle_id = org.laptop.Screencast
+exec = sugar-activity ScreencastActivity.ScreencastActivity
+icon = screencast-icon
+activity_version = 8
+license = GPLv3

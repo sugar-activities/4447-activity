@@ -1,0 +1,30 @@
+7
+
+* Migrated screen cast method from recordmydesktop to gstreamer ( Flavio Danesse flavio@activitycentral.com, Ariel Calzada ariel@activitycentral.com )
+* Deleted combo for choosing video quality ( Ariel Calzada ariel@activitycentral.com )
+* Fixed journal entries problems ( /tmp issue, write better implementation )  ( Ariel Calzada ariel@activitycentral.com )
+* Encoding on the fly implemented ( Flavio flavio@activitycentral.com, Ariel Calzada ariel@activitycentral.com )
+* Added locale ( Ariel Calzada ariel@activitycentral.com )
+
+6
+
+*Erasing pippy code dependence.(Sebastian Silva)
+
+5
+
+*Added progress bar for encoding
+
+4
+
+*UI fixes (sebastian silva)
+*Added-video-quality-option.patch (sebastian silva)
+
+3
+
+*Fix for olpcau-#792 friendler journal name (seabstian silva sebastian@somosazucar.org)
+*adding git ignore (sebastian silva sebastian@somosazucar.org)
+
+2
+
+*New icon
+*Fix-olpc.au#768-Avoids-leaving-recordmydesktop-running.
